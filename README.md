@@ -48,7 +48,7 @@ For Debian based distros such as Ubuntu, Linux Mint, Kali Linux, etc.
 For Arch based distros install it by running following command in terminal
 
 
-`sudp pacman -S python-pip`
+`sudo pacman -S python-pip`
 
 
 **For other distros please check your respective package managers**
