@@ -29,7 +29,7 @@ Alongside python you need to install pip as well for that open a command promp i
 `python get-pip.py`
 
 
-**Note that you should check the cox which says "Add Python 3.8 to PATH" during installation of python**
+**Note that you should check the box which says "Add Python 3.8 to PATH" during installation of Python**
 
 ### For Linux Users
 
