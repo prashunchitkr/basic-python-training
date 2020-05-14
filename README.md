@@ -1,6 +1,5 @@
 # Basic Python Training
 
-
 This repository is created for the hosting the codes done on the 15 day basic python training organized by Khwopa College of Engineering.
 
 
@@ -11,6 +10,14 @@ If you face any problem then create a issue in the repo or contact any instructo
 
 
 **Note that we are using python 3 and not python 2 for this training as python 2 has reached EOL and wont be supported anymore**
+
+
+- [Basic Python Training](#basic-python-training)
+  - [Using This Repo](#using-this-repo)
+  - [Installing required programs for this training](#installing-required-programs-for-this-training)
+    - [For Windows Users](#for-windows-users)
+    - [For Linux Users](#for-linux-users)
+  - [Syllabus](#syllabus)
 
 
 ## Using This Repo
@@ -61,7 +68,7 @@ For Arch based distros install it by running following command in terminal
 
 `sudo pacman -S python-pip`
 
-For Vscode
+For [Vscode](https://code.visualstudio.com/)
 
 `sudo pacman -S code`
 
@@ -70,3 +77,26 @@ For Vscode
 
 
 **VSCode Should be available in the respective software store in linux**
+
+
+## Syllabus
+
+
+- [ ] **Day 1** - Installation and Introduction to Python
+- [ ] **Day 2** - Code Layout, Datatypes and Variables
+- [ ] **Day 3** - Control Flow, Looping and Comparision
+- [ ] **Day 4** - I/O, Output Formatting and Manipulation
+- [ ] **Day 5** - Functions
+- [ ] **Day 6** - File Handling
+- [ ] **Day 7** - Error and Exception
+- [ ] **Day 8** - Modules and Packages
+- [ ] **Day 9** - List Comprehension, Iterators, Generators and Decorators
+- [ ] **Day 10** - Classes in Python
+- [ ] **Day 11** - Virtual Environments
+- [ ] **Day 12** - Web Scraping using [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
+- [ ] **Day 13** - More with [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
+- [ ] **Day 14** - Debugging and Introduction to [Jupyter Notebook](https://jupyter.org/)
+- [ ] **Day 15** - GIT, Discussions and Q&A sessions
+
+
+[View syllabus in detail](Basic%20Python%20Syllabus.pdf)
