@@ -13,6 +13,17 @@ If you face any problem then create a issue in the repo or contact any instructo
 **Note that we are using python 3 and not python 2 for this training as python 2 has reached EOL and wont be supported anymore**
 
 
+## Using This Repo
+
+
+Clone this repo by running the following command on your git bash
+
+`git clone https://github.com/prashun-chitkr/python-basic-course.git`
+
+
+Or alternatively you can download the repo as a zip file
+
+
 ## Installing required programs for this training
 
 ### For Windows Users
@@ -59,14 +70,3 @@ For Vscode
 
 
 **VSCode Should be available in the respective software store in linux**
-
-
-## Using This Repo
-
-
-Clone this repo by running the following command on your git bash
-
-`git clone https://github.com/prashun-chitkr/python-basic-course.git`
-
-
-Or alternatively you can download the repo as a zip file
