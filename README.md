@@ -36,9 +36,9 @@ Or alternatively you can download the repo as a zip file
 ### For Windows Users
 
 
-1. [Python](https://www.python.org/downloads/)
-2. [GIT](https://git-scm.com/download/win)
-3. [VSCode](https://code.visualstudio.com/download)
+1. [Python](https://cutt.ly/VyQjJgr)
+2. [GIT](https://cutt.ly/jyQjK06)
+3. [VSCode](https://cutt.ly/CyQjZlw)
 
 
 Alongside python you need to install pip as well for that open a command promp in the repo's folder and run following command
