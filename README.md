@@ -1,4 +1,4 @@
-# Python Basic Training
+# Basic Python Training
 
 
 This repository is created for the hosting the codes done on the 15 day basic python training organized by Khwopa College of Engineering.
