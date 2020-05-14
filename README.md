@@ -50,6 +50,10 @@ For Arch based distros install it by running following command in terminal
 
 `sudo pacman -S python-pip`
 
+For Vscode
+
+`sudo pacman -S code`
+
 
 **For other distros please check your respective package managers**
 
