@@ -49,7 +49,7 @@
 ## Day 6
 
 - File handling
-  - Creating new files/opeing existing files
+  - Creating new files/opening existing files
   - Reading and writing files
 
 ## Day 7
@@ -63,10 +63,10 @@
 
 - Using modules and packages
 - The PYPI
-- Importing packages in a code (Relative and Absolute inports)
+- Importing packages in a code (Relative and Absolute imports)
 - Managing external modules through pip
   - Installing modules
-  - Importing external modules in program
+  - Importing external modules in programs
 
 ## Day 9
 
@@ -85,10 +85,10 @@
 
 ## Day 11
 
-- Virtual Enviroments
-  - Creating virtual enviroments with virtualenv module
-  - Activating a virtual enviroment
-  - Installing odules in virtualenv
+- Virtual Environments
+  - Creating virtual environments with virtualenv module
+  - Activating a virtual environment
+  - Installing modules in virtualenv
 
 ## Day 12
 
