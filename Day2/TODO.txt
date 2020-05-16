@@ -1,0 +1,9 @@
+1. What is PEP?
+2. What makes python awesome!?
+3. Basic Datatypes
+4. Variables
+5. Builtin datatypes
+    i. list
+    ii. tuple
+    iii. set
+    iv. dict
