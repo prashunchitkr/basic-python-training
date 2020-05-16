@@ -83,7 +83,7 @@ For [Vscode](https://code.visualstudio.com/)
 
 
 - [X] **Day 1** - Installation and Introduction to Python
-- [ ] **Day 2** - Code Layout, Datatypes and Variables
+- [X] **Day 2** - Code Layout, Datatypes and Variables
 - [ ] **Day 3** - Control Flow, Looping and Comparision
 - [ ] **Day 4** - I/O, Output Formatting and Manipulation
 - [ ] **Day 5** - Functions
@@ -99,4 +99,4 @@ For [Vscode](https://code.visualstudio.com/)
 - [ ] **Day 15** - GIT, Discussions and Q&A sessions
 
 
-[View syllabus in detail](Basic%20Python%20Syllabus.pdf)
+[View syllabus in detail](SYLLABUS.md)
