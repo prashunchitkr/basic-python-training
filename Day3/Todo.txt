@@ -1,0 +1,6 @@
+control flow
+    if else
+    for
+    while
+    Loop manipulations(break, continue, else, ,pass)
+Numerical operation
