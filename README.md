@@ -84,8 +84,8 @@ For [Vscode](https://code.visualstudio.com/)
 
 - [X] **Day 1** - Installation and Introduction to Python
 - [X] **Day 2** - Code Layout, Datatypes and Variables
-- [ ] **Day 3** - Control Flow, Looping and Comparision
-- [ ] **Day 4** - I/O, Output Formatting and Manipulation
+- [X] **Day 3** - Control Flow, Looping and Comparision
+- [X] **Day 4** - I/O, Output Formatting and Manipulation
 - [ ] **Day 5** - Functions
 - [ ] **Day 6** - File Handling
 - [ ] **Day 7** - Error and Exception

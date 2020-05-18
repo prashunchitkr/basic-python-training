@@ -1,0 +1,8 @@
+1. Input/Output
+2. Output Formatting
+3. Operations/Manipulations in data types
+    a. String Operations
+    b. List Operations
+    c. Set Operations
+    d. Dictionary Operations
+4. Iterating through list/tuple/dictionaries
