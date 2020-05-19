@@ -1,0 +1,9 @@
+Functions
+1. without positional arguements/parameters
+2. with positional arguements/parameters
+3. (pass by value/reference)? => pass-by-assignment
+4. packing and unpacking
+5. default parameters
+6. lambda functions
+7. multiple returns
+8. higher order functions
