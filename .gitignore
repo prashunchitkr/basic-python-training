@@ -121,6 +121,7 @@ venv.bak/
 pip-selfcheck.json
 
 ### VisualStudioCode ###
+/.vscode
 .vscode/*
 
 ### VisualStudioCode Patch ###
