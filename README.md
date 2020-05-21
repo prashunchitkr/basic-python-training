@@ -87,8 +87,8 @@ For [Vscode](https://code.visualstudio.com/)
 - [X] **Day 3** - Control Flow, Looping and Comparision
 - [X] **Day 4** - I/O, Output Formatting and Manipulation
 - [X] **Day 5** - Functions
-- [ ] **Day 6** - File Handling
-- [ ] **Day 7** - Error and Exception
+- [X] **Day 6** - File Handling
+- [X] **Day 7** - Error and Exception
 - [ ] **Day 8** - Modules and Packages
 - [ ] **Day 9** - List Comprehension, Iterators, Generators and Decorators
 - [ ] **Day 10** - Classes in Python

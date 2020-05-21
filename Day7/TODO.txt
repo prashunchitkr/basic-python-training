@@ -1,0 +1,4 @@
+1. Errors and Exceptions
+2. Common Exceptions and how they occur
+3. Error Handling
+3. Raising Exceptions
