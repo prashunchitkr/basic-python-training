@@ -31,14 +31,9 @@ print(filehandler.readline())
 print(filehandler.readline())
 filehandler.close()
 
-# try:
-#     filehandler = open('first.txt', 'r')
-# final:
-
-
 #with
-# with open('first.txt', 'r') as f:
-#     print(f.read())
+with open('first.txt', 'r') as f:
+    print(f.read())
 
 #read plus write
 with open('first.txt', 'r+') as f:
@@ -67,6 +62,6 @@ with open('first.txt', 'r+') as f:
     print(f.read(6))
 
 #read lines
-# with open('first.txt', 'r+') as f:
-    # print(f.readline())
+with open('first.txt', 'r+') as f:
+    print(f.readline())
 

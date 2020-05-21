@@ -1,0 +1,4 @@
+1. file read write
+2. csv read write
+3. json read write
+4. binary read write

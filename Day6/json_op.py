@@ -1,20 +1,32 @@
 import json
+'''
+load
+loads
+dump
+dumps
+'''
 
-#load the file with json and turns in to dictionary
+#loads from dir
 data = []
 with open('data.json', 'r') as f:
     data = json.load(f)
 
-#chages the dictionary to string
-json_str = json.dumps(data[0])
+print(data[0]['userId'])
+print(type(data[0]))
 
-print(json_str)
-print(type(json_str))
+#loads from string
+dict_str = '{"name": "test", "age": 12}'
+print(type(dict_str))
+dict_obj = json.loads(dict_str)
+print(type(dict_obj))
 
-#loads the json string and converts to the dictionary
-temp = json.loads(json_str)
-print(type(temp))
 
-#save the dictionary to the opened file
-with open('second.json', 'w') as f:
-    json.dump(temp, f)
+#writes to string
+with open('try.json', 'w') as f:
+    json.dump(dict_obj, f)
+
+
+#object to string
+dict_obj = {"name": "test", "age": 12}
+dict_str = json.dumps(dict_obj)
+print(type(dict_str))
