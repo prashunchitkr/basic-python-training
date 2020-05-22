@@ -1,0 +1,18 @@
+Modules
+    what are python modules?
+    how to use modules?
+    packages
+    ways to import modules
+    absolute vs realtive import
+
+
+When a module named XXX is imported, 
+the interpreter first searches for a built-in module with that name. 
+If not found, it then searches for a file named XXX.py in a 
+list of directories given by the variable sys.path. 
+
+sys.path is initialized from these locations:
+
+- The directory containing the input script (or the current directory when no file is specified).
+- PYTHONPATH (a list of directory names, with the same syntax as the shell variable PATH).
+- The installation-dependent default.
