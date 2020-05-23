@@ -90,7 +90,7 @@ For [Vscode](https://code.visualstudio.com/)
 - [X] **Day 6** - File Handling
 - [X] **Day 7** - Error and Exception
 - [X] **Day 8** - Modules and Packages
-- [ ] **Day 9** - List Comprehension, Iterators, Generators and Decorators
+- [X] **Day 9** - List Comprehension, Iterators, Generators and Decorators
 - [ ] **Day 10** - Classes in Python
 - [ ] **Day 11** - Virtual Environments
 - [ ] **Day 12** - Web Scraping using [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
