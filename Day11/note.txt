@@ -1,0 +1,23 @@
+creating virtual environment
+# python -m venv <venv>
+PS ..\python-basic-course> python -m venv venv
+
+
+activating venv
+PS ..\python-basic-course> .\venv\Scripts\Activate.ps1
+
+for other terminals:
+https://docs.python.org/3/library/venv.html
+
+
+installing packages
+(make sure venv is activated beforing installing)
+
+# pip install <package_name>
+(venv) PS ..\python-basic-course> pip install numpy
+
+packages repository: https://pypi.org/
+
+
+deactivaing venv:
+(venv) PS ..\python-basic-course> deactivate
