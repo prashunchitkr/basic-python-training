@@ -93,10 +93,10 @@ For [Vscode](https://code.visualstudio.com/)
 - [X] **Day 9** - List Comprehension, Iterators, Generators and Decorators
 - [X] **Day 10** - Classes in Python
 - [X] **Day 11** - Virtual Environments
-- [ ] **Day 12** - Web Scraping using [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
-- [ ] **Day 13** - More with [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
-- [ ] **Day 14** - Debugging and Introduction to [Jupyter Notebook](https://jupyter.org/)
-- [ ] **Day 15** - GIT, Discussions and Q&A sessions
+- [X] **Day 12** - Web Scraping using [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
+- [X] **Day 13** - More with [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
+- [X] **Day 14** - Debugging and Introduction to [Jupyter Notebook](https://jupyter.org/)
+- [X] **Day 15** - GIT, Discussions and Q&A sessions
 
 
 [View syllabus in detail](SYLLABUS.md)
